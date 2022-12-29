@@ -9,12 +9,5 @@
 <a href="https://codepen.io/kartiknagar09" target="blank"><img align="center"  src="https://img.icons8.com/ios/512/codepen.png"  alt="@kartiknagar" height="40" width="40" /></a>
 </p>
 <p align="left">
-<a href="" target="blank"><img align="center" src="https://img.icons8.com/ios/512/twitter.png"   alt="psukhwantsingh" height="35" width="35" /></a>
+<a href="" target="blank"><img align="center" src="https://img.icons8.com/ios/512/twitter.png"   alt="kartiknagar" height="35" width="35" /></a>
 </p>
-
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sukhepadda&show_icons=true&locale=en" alt="sukhepadda" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sukhepadda&" alt="sukhepadda" /></p>
-
