@@ -8,6 +8,6 @@
 <p align="left">
 <a href="https://codepen.io/kartiknagar09" target="blank"><img align="center"  src="https://img.icons8.com/ios/512/codepen.png"  alt="@kartiknagar" height="40" width="40" /></a>
 </p>
-<p align="left">
+<!-- <p align="left">
 <a href="" target="blank"><img align="center" src="https://img.icons8.com/ios/512/twitter.png"   alt="kartiknagar" height="35" width="35" /></a>
-</p>
+</p> -->
