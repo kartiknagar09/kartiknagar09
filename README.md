@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kartik Nagar</h1>
-<h3 align="center">A Future Full Stack Developer and Bug Hunter from India</h3>
+<h3 align="center">A Full Stack Developer and Bug Hunter from India</h3>
 
 <h2>Live Projects</h2>
 <p>Here Is React TextUtils WebApp Link: https://first-react-app-snowy.vercel.app/</p>
